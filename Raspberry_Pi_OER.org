@@ -59,6 +59,7 @@ If you're interested in kernel development or OS UI design then check out the re
 ** Resources
 #+attr_html: :height 500px
 [[file:images/resource.png]]
+https://raspberrypi.org/learning
 #+BEGIN_NOTES
 More on this later
 #+END_NOTES
@@ -105,10 +106,8 @@ All resources and training uses and promotes FOSS Software
 #+END_NOTES
 * Generating resources
 ** Start a project
-#+attr_html: :height 500px
 [[file:images/db-create.png]]
 ** Create a repo
-#+attr_html: :height 500px
 [[file:images/generate.png]]
 ** Clone
 #+attr_html: :height 500px
@@ -120,12 +119,55 @@ All resources and training uses and promotes FOSS Software
 ** Markdown
 [[file:images/markdown.png]]
 ** How it looks
+#+attr_html: :height 500px
 [[file:images/slash-learning.png]]
 #+BEGIN_NOTES
 - We write in markdown
 - Pushing to draft branches triggers a webhook to pull the content to our staging server
 - Pushing to master triggers a webhook to pull to live
 #+END_NOTES
-* How our community engages with us
-* Code Club
-* Pioneers
+* How our community engages with us and how you can to
+** Issues
+#+attr_html: :height 500px
+[[file:images/issue.png]]
+** Pull requests
+#+attr_html: :height 500px
+[[file:images/pr.png]]
+** Contributions
+[[file:images/fork.png]]
+* Why do we do this?
+IMAGE HERE OF KIDS CODING
+* The state of digital making
+** The Good - The Kids
+#+attr_html: :width 500px
+[[file:images/kids.png]]
+** The Okay - The Parents
+#+attr_html: :width 500px
+[[file:images/parents.png]]
+** The Bad - The Teachers
+#+attr_html: :width 500px
+[[file:images/teachers.png]]
+** The Problem
+#+attr_html: :width 500px
+[[file:images/growth.png]]
+* More can be done
+** Volunteers can help
+[[file:images/stem.png]]
+** Code Club - What?
+[[file:images/cc3.png]]
+** Code Club - Where?
+[[file:images/cc0.png]]
+** Code Club - How?
+[[file:images/cc2.png]]
+** Pioneers
+[[file:images/blah.png]]
+** The Process
+#+attr_html: :width 600px
+[[file:images/pioneers.png]]
+** Let him explain
+#+BEGIN_EXPORT html
+<video width="800" controls>
+  <source src="images/pioneers.mp4" type="video/mp4">
+</video>
+#+END_EXPORT
+
