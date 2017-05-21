@@ -56,6 +56,8 @@ If you're interested in kernel development or OS UI design then check out the re
 - Education and outreach
 #+END_NOTES
 * What we do with all that money
+#+attr_html: :height 500px
+[[file:images/team.png]]
 ** Resources
 #+attr_html: :height 500px
 [[file:images/resource.png]]
@@ -84,7 +86,6 @@ UK comp - Tim Peake
 European comp - Thomas Pesquet
 #+END_NOTES
 * Open Source Software
-** We love FOSS
 #+attr_html: :height 500px
 [[file:images/sonic.png]]
 #+BEGIN_NOTES
@@ -92,7 +93,7 @@ Funded initial development of Sonic Pi
 All resources and training uses and promotes FOSS Software
 #+END_NOTES
 * Open Educational Resources
-#+attr_html: :height 500px
+#+attr_html: :height 400px
 [[file:images/oer.png]]
 #+BEGIN_NOTES
 - OER started in around 2002 by United Nations Educational, Scientific and Cultural Organisation
@@ -105,6 +106,8 @@ All resources and training uses and promotes FOSS Software
 - Raspberry Pi Foundation uses markdown and GitHub to produce and distribute resources
 #+END_NOTES
 * Generating resources
+#+attr_html: :height 500px
+[[file:images/resources.png]]
 ** Start a project
 [[file:images/db-create.png]]
 ** Create a repo
@@ -116,6 +119,7 @@ All resources and training uses and promotes FOSS Software
 - Back end involves a bot that creates a repo with master and draft branches ready for educators to use
 #+END_NOTES
 * How we make content
+[[file:images/editors.png]]
 ** Markdown
 [[file:images/markdown.png]]
 ** How it looks
@@ -127,6 +131,7 @@ All resources and training uses and promotes FOSS Software
 - Pushing to master triggers a webhook to pull to live
 #+END_NOTES
 * How our community engages with us and how you can to
+[[file:images/spencer.png]]
 ** Issues
 #+attr_html: :height 500px
 [[file:images/issue.png]]
@@ -136,8 +141,10 @@ All resources and training uses and promotes FOSS Software
 ** Contributions
 [[file:images/fork.png]]
 * Why do we do this?
-IMAGE HERE OF KIDS CODING
+[[file:images/codeclub.gif]]
 * The state of digital making
+#+attr_html: :width 450px
+[[file:images/growth.png]]
 ** The Good - The Kids
 #+attr_html: :width 500px
 [[file:images/kids.png]]
@@ -147,9 +154,6 @@ IMAGE HERE OF KIDS CODING
 ** The Bad - The Teachers
 #+attr_html: :width 500px
 [[file:images/teachers.png]]
-** The Problem
-#+attr_html: :width 500px
-[[file:images/growth.png]]
 * More can be done
 ** Volunteers can help
 [[file:images/stem.png]]
