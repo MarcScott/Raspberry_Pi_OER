@@ -1,0 +1,103 @@
+#+STARTUP: indent
+#+OPTIONS: reveal_title_slide:nil toc:nil num:nil
+#+OPTIONS: reveal_center:nil reveal_progress:t reveal_history:t
+#+OPTIONS: reveal_rolling_links:t num:nil
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: fade
+#+REVEAL_THEME: blood
+* WHOAMI
+#+attr_html: :height 300px
+[[file:images/marc-scott.jpg]]
+- www.coding2learn.org
+- @coding2learn
+#+BEGIN_NOTES
+Teacher of Science, Computer Science and Systems & Control 15 yrs
+Now work for Raspberry Pi Foundation as Content and Curriculum Manager
+Blog and twitter handle
+#+END_NOTES
+* Raspberry Pi Trading
+#+attr_html: :height 300px
+[[file:images/logo.png]]
+#+BEGIN_NOTES
+Raspberry Pi Trading design and arrange manufacture of the hardware, as well as owning the MagPi Magazine
+** Pi 3
+#+attr_html: :height 500px
+[[file:images/pi3.png]]
+** Zero
+#+attr_html: :height 500px
+[[file:images/zero.png]]
+** SenseHAT
+#+attr_html: :height 500px
+[[file:images/sensehat.png]]
+** Camera
+#+attr_html: :height 500px
+[[file:images/camera.png]]
+** MagPi
+#+attr_html: :height 500px
+[[file:images/magpi.png]]
+* Raspberry Pi Trading
+#+attr_html: :width 600px
+[[file:images/raspberrypi-gh.png]]
+[[file:images/raspberrypi-ui.png]]
+#+BEGIN_NOTES
+If you're interested in kernel development or OS UI design then check out the repos here
+#+END_NOTES
+* The Raspberry Pi Foundation
+- An educational charity
+- Founded in 2009
+- Putting the power of _digital making_ into the hands of people all over the world.
+- One way we do this is by making low-cost computers and out first went on sale in February 2012
+- As of March this year, we've sold _12.5 million_.
+#+BEGIN_NOTES
+- Charity that is financed by the sale of the Raspberry Pi
+- Education and outreach
+#+END_NOTES
+* What we do with all that money
+** Resources
+#+attr_html: :height 500px
+[[file:images/resource.png]]
+#+BEGIN_NOTES
+More on this later
+#+END_NOTES
+** Teacher Training
+#+attr_html: :height 500px
+[[file:images/picademy.jpg]]
+#+BEGIN_NOTES
+Face to face training - over 1100 educators world wide
+Online training with continued course creation
+#+END_NOTES
+** Outreach
+#+attr_html: :height 500px
+[[file:images/outreach.png]]
+** Jam support
+#+attr_html: :height 500px
+[[file:images/jam.png]]
+** Projects
+#+attr_html: :height 500px
+[[file:images/astro.png]]
+#+BEGIN_NOTES
+UK comp - Tim Peake
+European comp - Thomas Pesquet
+#+END_NOTES
+* Open Source Software
+** We love FOSS
+#+attr_html: :height 500px
+[[file:images/sonic.png]]
+#+BEGIN_NOTES
+Funded initial development of Sonic Pi
+All resources and trianing uses and promotes FOSS Software
+#+END_NOTES
+* Open Educational Resuources
+#+attr_html: :height 500px
+[[file:images/oer.png]]
+#+BEGIN_NOTES
+
+#+END_NOTES
+* Generating resources
+
+* How we make content
+* How our community engages with us
+* Code Club
+* Pioneers
