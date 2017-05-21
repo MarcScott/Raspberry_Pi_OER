@@ -22,6 +22,7 @@ Blog and twitter handle
 [[file:images/logo.png]]
 #+BEGIN_NOTES
 Raspberry Pi Trading design and arrange manufacture of the hardware, as well as owning the MagPi Magazine
+#+END_NOTES
 ** Pi 3
 #+attr_html: :height 500px
 [[file:images/pi3.png]]
@@ -87,17 +88,44 @@ European comp - Thomas Pesquet
 [[file:images/sonic.png]]
 #+BEGIN_NOTES
 Funded initial development of Sonic Pi
-All resources and trianing uses and promotes FOSS Software
+All resources and training uses and promotes FOSS Software
 #+END_NOTES
-* Open Educational Resuources
+* Open Educational Resources
 #+attr_html: :height 500px
 [[file:images/oer.png]]
 #+BEGIN_NOTES
-
+- OER started in around 2002 by United Nations Educational, Scientific and Cultural Organisation
+- Producing resources that are licensed so as to allow free use and re-purposing
+- How teachers usually create resources:
+  - Individually
+  - Not shared or just shared within a department
+  - Often shared using formats such as PDF to prevent modification
+- Better way - using open platforms and nor proprietary formats.
+- Raspberry Pi Foundation uses markdown and GitHub to produce and distribute resources
 #+END_NOTES
 * Generating resources
-
+** Start a project
+#+attr_html: :height 500px
+[[file:images/db-create.png]]
+** Create a repo
+#+attr_html: :height 500px
+[[file:images/generate.png]]
+** Clone
+#+attr_html: :height 500px
+[[file:images/repo.png]]
+#+BEGIN_NOTES
+- Back end involves a bot that creates a repo with master and draft branches ready for educators to use
+#+END_NOTES
 * How we make content
+** Markdown
+[[file:images/markdown.png]]
+** How it looks
+[[file:images/slash-learning.png]]
+#+BEGIN_NOTES
+- We write in markdown
+- Pushing to draft branches triggers a webhook to pull the content to our staging server
+- Pushing to master triggers a webhook to pull to live
+#+END_NOTES
 * How our community engages with us
 * Code Club
 * Pioneers
