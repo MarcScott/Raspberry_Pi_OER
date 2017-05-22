@@ -17,25 +17,47 @@ Teacher of Science, Computer Science and Systems & Control 15 yrs
 Now work for Raspberry Pi Foundation as Content and Curriculum Manager
 Blog and twitter handle
 #+END_NOTES
+* Kids _can_ code
+#+attr_html: :width 600px
+[[file:images/codeclub.gif]]
+* The Kids
+#+attr_html: :width 600px
+[[file:images/kids.png]]
+* The Parents
+#+attr_html: :width 600px
+[[file:images/parents.png]]
+* The Teachers
+#+attr_html: :width 600px
+[[file:images/teachers.png]]
+* Summary
+#+attr_html: :width 500px
+[[file:images/growth.png]]
 * Raspberry Pi Trading
 #+attr_html: :height 300px
 [[file:images/logo.png]]
 #+BEGIN_NOTES
-Raspberry Pi Trading design and arrange manufacture of the hardware, as well as owning the MagPi Magazine
+- Hacker Solution
+  - Eben Upton
+  - Rob Mullins
+  - Jack Lang
+  - Alan Mycroft
+  - Pete Lomas
+  - David Braben
+- Raspberry Pi Trading design and arrange manufacture of the hardware, as well as owning the MagPi Magazine
 #+END_NOTES
-** Pi 3
+* Pi 3
 #+attr_html: :height 500px
 [[file:images/pi3.png]]
-** Zero
+* Zero
 #+attr_html: :height 500px
 [[file:images/zero.png]]
-** SenseHAT
+* SenseHAT
 #+attr_html: :height 500px
 [[file:images/sensehat.png]]
-** Camera
+* Camera
 #+attr_html: :height 500px
 [[file:images/camera.png]]
-** MagPi
+* MagPi
 #+attr_html: :height 500px
 [[file:images/magpi.png]]
 * Raspberry Pi Trading
@@ -58,27 +80,27 @@ If you're interested in kernel development or OS UI design then check out the re
 * What we do with all that money
 #+attr_html: :height 500px
 [[file:images/team.png]]
-** Resources
+* Resources
 #+attr_html: :height 500px
 [[file:images/resource.png]]
 https://raspberrypi.org/learning
 #+BEGIN_NOTES
 More on this later
 #+END_NOTES
-** Teacher Training
+* Teacher Training
 #+attr_html: :height 500px
 [[file:images/picademy.jpg]]
 #+BEGIN_NOTES
 Face to face training - over 1100 educators world wide
 Online training with continued course creation
 #+END_NOTES
-** Outreach
+* Outreach
 #+attr_html: :height 500px
 [[file:images/outreach.png]]
-** Jam support
+* Jam support
 #+attr_html: :height 500px
 [[file:images/jam.png]]
-** Projects
+* Projects
 #+attr_html: :height 500px
 [[file:images/astro.png]]
 #+BEGIN_NOTES
@@ -108,11 +130,11 @@ All resources and training uses and promotes FOSS Software
 * Generating resources
 #+attr_html: :height 500px
 [[file:images/resources.png]]
-** Start a project
+* Start a project
 [[file:images/db-create.png]]
-** Create a repo
+* Create a repo
 [[file:images/generate.png]]
-** Clone
+* Clone
 #+attr_html: :height 500px
 [[file:images/repo.png]]
 #+BEGIN_NOTES
@@ -120,9 +142,9 @@ All resources and training uses and promotes FOSS Software
 #+END_NOTES
 * How we make content
 [[file:images/editors.png]]
-** Markdown
+* Markdown
 [[file:images/markdown.png]]
-** How it looks
+* How it looks
 #+attr_html: :height 500px
 [[file:images/slash-learning.png]]
 #+BEGIN_NOTES
@@ -132,43 +154,30 @@ All resources and training uses and promotes FOSS Software
 #+END_NOTES
 * How our community engages with us and how you can to
 [[file:images/spencer.png]]
-** Issues
+* Issues
 #+attr_html: :height 500px
 [[file:images/issue.png]]
-** Pull requests
+* Pull requests
 #+attr_html: :height 500px
 [[file:images/pr.png]]
-** Contributions
+* Contributions
 [[file:images/fork.png]]
-* Why do we do this?
-[[file:images/codeclub.gif]]
-* The state of digital making
-#+attr_html: :width 450px
-[[file:images/growth.png]]
-** The Good - The Kids
-#+attr_html: :width 500px
-[[file:images/kids.png]]
-** The Okay - The Parents
-#+attr_html: :width 500px
-[[file:images/parents.png]]
-** The Bad - The Teachers
-#+attr_html: :width 500px
-[[file:images/teachers.png]]
+
 * More can be done
-** Volunteers can help
+* Volunteers can help
 [[file:images/stem.png]]
-** Code Club - What?
+* Code Club - What?
 [[file:images/cc3.png]]
-** Code Club - Where?
+* Code Club - Where?
 [[file:images/cc0.png]]
-** Code Club - How?
+* Code Club - How?
 [[file:images/cc2.png]]
-** Pioneers
+* Pioneers
 [[file:images/blah.png]]
-** The Process
+* The Process
 #+attr_html: :width 600px
 [[file:images/pioneers.png]]
-** Let him explain
+* Let him explain
 #+BEGIN_EXPORT html
 <video width="800" controls>
   <source src="images/pioneers.mp4" type="video/mp4">
