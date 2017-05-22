@@ -13,39 +13,92 @@
 - www.coding2learn.org
 - @coding2learn
 - github.com/MarcScott
+#+BEGIN_NOTES
+- Teacher of Science, Computer Science and Systems & Control 15 yrs
+- Now work for Raspberry Pi Foundation as Content and Curriculum Manager
+- Blog and twitter handle - GitHub where this presentation sits
+- Quick poll of audience - digital makers?, self taught?, inspired by school?
+#+END_NOTES
 * Kids _love_ code
 #+attr_html: :width 600px
 [[file:images/codeclub.gif]]
+#+BEGIN_NOTES
+- Kids can't use computers
+- Turns out they can.
+- Kids will be watching this right now
+#+END_NOTES
 * The Kids
 #+attr_html: :width 600px
 [[file:images/kids.png]]
+#+BEGIN_NOTES
+- 90% view DM positive
+#+END_NOTES
 * The Parents
 #+attr_html: :width 600px
 [[file:images/parents.png]]
+#+BEGIN_NOTES
+- Overwhelming support for Digital Making and Computing
+- 12% know how to help their kids
+#+END_NOTES
 * The Teachers
 #+attr_html: :width 550px
 [[file:images/teachers.png]]
+#+BEGIN_NOTES
+- 50% of ICT/Computing teachers feel confident
+#+END_NOTES
 * Summary
 #+attr_html: :width 550px
 [[file:images/growth.png]]
+#+BEGIN_NOTES
+- 20% have a qualification
+- Poll at Picademy regarding teachers who fell into teaching computing
+#+END_NOTES
 * Raspberry Pi
 #+attr_html: :height 300px
 [[file:images/logo.png]]
+#+BEGIN_NOTES
+- Hacker Solution to this issue
+  - Eben Upton
+  - Rob Mullins
+  - Jack Lang
+  - Alan Mycroft
+  - Pete Lomas
+  - David Braben
+- Make a computer like the BBC did back in the day
+#+END_NOTES
 * The Raspberry Pi
 #+attr_html: :height 500px
 [[file:images/pi3.png]]
+#+BEGIN_NOTES
+- Our main device
+- $35
+- Lots of versions
+#+END_NOTES
 * Zero
 #+attr_html: :height 500px
 [[file:images/zero.png]]
+#+BEGIN_NOTES
+A budget offering
+#+END_NOTES
 * SenseHAT
 #+attr_html: :height 500px
 [[file:images/sensehat.png]]
+#+BEGIN_NOTES
+- Make it fun and interactive
+- Make physical computing easy
+#+END_NOTES
 * Camera
 #+attr_html: :height 500px
 [[file:images/camera.png]]
+#+BEGIN_NOTES
+Make it more useful
+#+END_NOTES
 * MagPi
 #+attr_html: :height 500px
 [[file:images/magpi.png]]
+#+BEGIN_NOTES
+Build a community
+#+END_NOTES
 * Raspberry Pi
 #+attr_html: :width 600px
 [[file:images/raspberrypi-gh.png]]
@@ -62,70 +115,174 @@ If you're interested in kernel development or OS UI design then check out the re
 * What we do with all that money
 #+attr_html: :height 500px
 [[file:images/team.png]]
+#+BEGIN_NOTES
+- We are a people business
+- We hire people to promote the aims of the foundation
+#+END_NOTES
 * Resources
 #+attr_html: :height 500px
 [[file:images/resource.png]]
 https://raspberrypi.org/learning
+#+BEGIN_NOTES
+- We make resources for learners young and old
+- We have a digital making curriculum
+#+END_NOTES
 * Teacher Training
 #+attr_html: :height 500px
 [[file:images/picademy.jpg]]
+#+BEGIN_NOTES
+- Face to face training
+- Online training
+#+END_NOTES
 * Outreach
 #+attr_html: :height 500px
 [[file:images/outreach.png]]
+#+BEGIN_NOTES
+- Attend and organise events
+- Let people get their first experience of digital making
+#+END_NOTES
 * Jam support
 #+attr_html: :height 500px
 [[file:images/jam.png]]
+#+BEGIN_NOTES
+- Support Jam Makers - guidance and resources
+- Occasional visits
+#+END_NOTES
 * Projects
 #+attr_html: :height 500px
 [[file:images/astro.png]]
+#+BEGIN_NOTES
+- Getting kids excited by projects
+- Astro Pi put Raspberry Pi into space
+- Weather Station to introduce to big data
+#+END_NOTES
 * Extra Curricular
 #+attr_html: :height 500px
 [[file:images/codeclub.jpg]]
+#+BEGIN_NOTES
+More on this later
+#+END_NOTES
 * Open Source Software
 #+attr_html: :height 500px
 [[file:images/sonic.png]]
+#+BEGIN_NOTES
+Fund and support FOSS development
+#+END_NOTES
 * Open Educational Resources
 #+attr_html: :height 400px
 [[file:images/oer.png]]
+#+BEGIN_NOTES
+- OER started in around 2002 by United Nations Educational, Scientific and Cultural Organisation
+- Producing resources that are licensed so as to allow free use and re-purposing
+- How teachers usually create resources:
+  - Individually
+  - Not shared or just shared within a department
+  - Often shared using formats such as PDF to prevent modification
+- Better way - using open platforms and nor proprietary formats.
+- Raspberry Pi Foundation uses markdown and GitHub to produce and distribute resources
+#+END_NOTES
 * Generating resources
 #+attr_html: :height 500px
 [[file:images/resources.png]]
+#+BEGIN_NOTES
+- We have dozens of resources and more added each week
+- Aimed at younger learners
+- Used at home, clubs and in schools
+#+END_NOTES
 * Start a project
 [[file:images/generate.png]]
+#+BEGIN_NOTES
+- We have an online app that integrates with a database for when we want a new resource
+#+END_NOTES
 * Create a repo
 [[file:images/db-create.png]]
+#+BEGIN_NOTES
+- Creating a resource also creates a repo. We have bot that does this for us
+- Previously this was a manual job each time.
+- This saves us time and prevents mistakes
+#+END_NOTES
 * Clone
 #+attr_html: :height 500px
 [[file:images/repo.png]]
+#+BEGIN_NOTES
+- We then clone the repo
+- Mix of OS at the office - Linux, mac and windows
+- Copy editors often just use the web interface
+#+END_NOTES
 * How we make content
 #+attr_html: :width 400px
 [[file:images/editors.png]]
+#+BEGIN_NOTES
+- Use a variety of editors to edit the markdown
+#+END_NOTES
 * Markdown
 [[file:images/markdown.png]]
+#+BEGIN_NOTES
+Markdown is pretty standard, with a few embellishments to make it a little more expressive
+Push to draft triggers a webhook that pull content into staging
+Push to master does the same to a live project
+#+END_NOTES
 * How it looks
 #+attr_html: :height 500px
 [[file:images/slash-learning.png]]
+#+BEGIN_NOTES
+- Ruby scripts to generate the html and make it look all fancy
+- Our new site currently in A/B testing
+- Lots of development going on at the moment
+#+END_NOTES
 * How our community engages with us and how you can to
 [[file:images/spencer.png]]
+#+BEGIN_NOTES
+- Community is teachers, developers, parents and enthusiasts
+- The reason RPI is so popular is the community
+#+END_NOTES
 * Issues
 #+attr_html: :height 500px
 [[file:images/issue.png]]
+#+BEGIN_NOTES
+- We like issues to be raised on our resources
+- Try out a resource, find mistakes or potential improvements and raise an issue
+#+END_NOTES
 * Pull requests
 #+attr_html: :height 500px
 [[file:images/pr.png]]
+#+BEGIN_NOTES
+- PR even better - less work for me
+- Fork the resource, edit and submit pull. If we like it gets copy edited and pushed live
+#+END_NOTES
 * Contributions
 [[file:images/fork.png]]
-* More can be done
+- Have a look through out repos -learn our style
+- Make your own resource
+- Submit to us
+* A Cheeky Request
+#+BEGIN_NOTES
+- There's more that can be done
+- Helping with resources is great but you can help us even more
+- Remember that slide about teachers.
+- Lack of people is the key issue
+#+END_NOTES
 * Volunteers can help
 [[file:images/stem.png]]
+#+BEGIN_NOTES
+- Volunteer your time
+- Not just RPi - Stem Ambassadors, Coder Dojo
+#+END_NOTES
 * Code Club - What?
 [[file:images/cc3.png]]
+#+BEGIN_NOTES
+- Over 8000 clubs in 80 countries
+- Resources in 15 languages - community volunteered
+#+END_NOTES
 * Code Club - Where?
 [[file:images/cc0.png]]
 * Code Club - How?
 [[file:images/cc2.png]]
 * Pioneers
 [[file:images/blah.png]]
+#+BEGIN_NOTES
+- New scheme for kids 13 and up
+#+END_NOTES
 * The Process
 #+attr_html: :width 600px
 [[file:images/pioneers.png]]
