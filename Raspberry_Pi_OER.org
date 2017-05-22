@@ -13,7 +13,7 @@
 - www.coding2learn.org
 - @coding2learn
 - github.com/MarcScott
-* Kids _can_ code
+* Kids _love_ code
 #+attr_html: :width 600px
 [[file:images/codeclub.gif]]
 * The Kids
@@ -78,6 +78,9 @@ https://raspberrypi.org/learning
 * Projects
 #+attr_html: :height 500px
 [[file:images/astro.png]]
+* Extra Curricular
+#+attr_html: :height 500px
+[[file:images/codeclub.jpg]]
 * Open Source Software
 #+attr_html: :height 500px
 [[file:images/sonic.png]]
@@ -95,6 +98,7 @@ https://raspberrypi.org/learning
 #+attr_html: :height 500px
 [[file:images/repo.png]]
 * How we make content
+#+attr_html: :width 400px
 [[file:images/editors.png]]
 * Markdown
 [[file:images/markdown.png]]
