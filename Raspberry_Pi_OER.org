@@ -13,11 +13,6 @@
 - www.coding2learn.org
 - @coding2learn
 - github.com/MarcScott
-#+BEGIN_NOTES
-Teacher of Science, Computer Science and Systems & Control 15 yrs
-Now work for Raspberry Pi Foundation as Content and Curriculum Manager
-Blog and twitter handle
-#+END_NOTES
 * Kids _can_ code
 #+attr_html: :width 600px
 [[file:images/codeclub.gif]]
@@ -36,16 +31,6 @@ Blog and twitter handle
 * Raspberry Pi
 #+attr_html: :height 300px
 [[file:images/logo.png]]
-#+BEGIN_NOTES
-- Hacker Solution
-  - Eben Upton
-  - Rob Mullins
-  - Jack Lang
-  - Alan Mycroft
-  - Pete Lomas
-  - David Braben
-- Raspberry Pi Trading design and arrange manufacture of the hardware, as well as owning the MagPi Magazine
-#+END_NOTES
 * The Raspberry Pi
 #+attr_html: :height 500px
 [[file:images/pi3.png]]
@@ -74,10 +59,6 @@ If you're interested in kernel development or OS UI design then check out the re
 - Putting the power of _digital making_ into the hands of people all over the world.
 - One way we do this is by making low-cost computers and out first went on sale in February 2012
 - As of March this year, we've sold _12.5 million_.
-#+BEGIN_NOTES
-- Charity that is financed by the sale of the Raspberry Pi
-- Education and outreach
-#+END_NOTES
 * What we do with all that money
 #+attr_html: :height 500px
 [[file:images/team.png]]
@@ -85,16 +66,9 @@ If you're interested in kernel development or OS UI design then check out the re
 #+attr_html: :height 500px
 [[file:images/resource.png]]
 https://raspberrypi.org/learning
-#+BEGIN_NOTES
-More on this later
-#+END_NOTES
 * Teacher Training
 #+attr_html: :height 500px
 [[file:images/picademy.jpg]]
-#+BEGIN_NOTES
-Face to face training - over 1100 educators world wide
-Online training with continued course creation
-#+END_NOTES
 * Outreach
 #+attr_html: :height 500px
 [[file:images/outreach.png]]
@@ -104,30 +78,12 @@ Online training with continued course creation
 * Projects
 #+attr_html: :height 500px
 [[file:images/astro.png]]
-#+BEGIN_NOTES
-UK comp - Tim Peake
-European comp - Thomas Pesquet
-#+END_NOTES
 * Open Source Software
 #+attr_html: :height 500px
 [[file:images/sonic.png]]
-#+BEGIN_NOTES
-All resources and training uses and promotes FOSS Software
-Explain to teachers what FOSS and why it's so cool
-#+END_NOTES
 * Open Educational Resources
 #+attr_html: :height 400px
 [[file:images/oer.png]]
-#+BEGIN_NOTES
-- OER started in around 2002 by United Nations Educational, Scientific and Cultural Organisation
-- Producing resources that are licensed so as to allow free use and re-purposing
-- How teachers usually create resources:
-  - Individually
-  - Not shared or just shared within a department
-  - Often shared using formats such as PDF to prevent modification
-- Better way - using open platforms and nor proprietary formats.
-- Raspberry Pi Foundation uses markdown and GitHub to produce and distribute resources
-#+END_NOTES
 * Generating resources
 #+attr_html: :height 500px
 [[file:images/resources.png]]
@@ -138,9 +94,6 @@ Explain to teachers what FOSS and why it's so cool
 * Clone
 #+attr_html: :height 500px
 [[file:images/repo.png]]
-#+BEGIN_NOTES
-- Back end involves a bot that creates a repo with master and draft branches ready for educators to use
-#+END_NOTES
 * How we make content
 [[file:images/editors.png]]
 * Markdown
@@ -148,11 +101,6 @@ Explain to teachers what FOSS and why it's so cool
 * How it looks
 #+attr_html: :height 500px
 [[file:images/slash-learning.png]]
-#+BEGIN_NOTES
-- We write in markdown
-- Pushing to draft branches triggers a webhook to pull the content to our staging server
-- Pushing to master triggers a webhook to pull to live
-#+END_NOTES
 * How our community engages with us and how you can to
 [[file:images/spencer.png]]
 * Issues
@@ -163,7 +111,6 @@ Explain to teachers what FOSS and why it's so cool
 [[file:images/pr.png]]
 * Contributions
 [[file:images/fork.png]]
-
 * More can be done
 * Volunteers can help
 [[file:images/stem.png]]
