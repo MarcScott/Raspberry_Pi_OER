@@ -12,6 +12,7 @@
 [[file:images/marc-scott.jpg]]
 - www.coding2learn.org
 - @coding2learn
+- github.com/MarcScott
 #+BEGIN_NOTES
 Teacher of Science, Computer Science and Systems & Control 15 yrs
 Now work for Raspberry Pi Foundation as Content and Curriculum Manager
@@ -27,12 +28,12 @@ Blog and twitter handle
 #+attr_html: :width 600px
 [[file:images/parents.png]]
 * The Teachers
-#+attr_html: :width 600px
+#+attr_html: :width 550px
 [[file:images/teachers.png]]
 * Summary
-#+attr_html: :width 500px
+#+attr_html: :width 550px
 [[file:images/growth.png]]
-* Raspberry Pi Trading
+* Raspberry Pi
 #+attr_html: :height 300px
 [[file:images/logo.png]]
 #+BEGIN_NOTES
@@ -45,7 +46,7 @@ Blog and twitter handle
   - David Braben
 - Raspberry Pi Trading design and arrange manufacture of the hardware, as well as owning the MagPi Magazine
 #+END_NOTES
-* Pi 3
+* The Raspberry Pi
 #+attr_html: :height 500px
 [[file:images/pi3.png]]
 * Zero
@@ -60,7 +61,7 @@ Blog and twitter handle
 * MagPi
 #+attr_html: :height 500px
 [[file:images/magpi.png]]
-* Raspberry Pi Trading
+* Raspberry Pi
 #+attr_html: :width 600px
 [[file:images/raspberrypi-gh.png]]
 [[file:images/raspberrypi-ui.png]]
@@ -111,8 +112,8 @@ European comp - Thomas Pesquet
 #+attr_html: :height 500px
 [[file:images/sonic.png]]
 #+BEGIN_NOTES
-Funded initial development of Sonic Pi
 All resources and training uses and promotes FOSS Software
+Explain to teachers what FOSS and why it's so cool
 #+END_NOTES
 * Open Educational Resources
 #+attr_html: :height 400px
@@ -131,9 +132,9 @@ All resources and training uses and promotes FOSS Software
 #+attr_html: :height 500px
 [[file:images/resources.png]]
 * Start a project
-[[file:images/db-create.png]]
-* Create a repo
 [[file:images/generate.png]]
+* Create a repo
+[[file:images/db-create.png]]
 * Clone
 #+attr_html: :height 500px
 [[file:images/repo.png]]
